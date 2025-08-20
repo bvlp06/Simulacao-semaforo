@@ -1,2 +1,2 @@
-# projSimulacao
-Simulação de um sinal de trânsito com o uso do JADE
+#  Multiagent Systems (Distributed Artificial Intelligence)
+Multi-agent simulation in JADE (Java) representing an intersection with traffic lights and vehicles.
